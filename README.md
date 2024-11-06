@@ -4,7 +4,7 @@ Hi 👋 My name is Sam Bolton
 Full Stack Developer
 --------------------
 
-After deciding it was time for a career change, I've been working on establishing myself as a professional and dedicated developer. Trying to improve 1% each day.
+After deciding to make a career change, I've been dedicated to establishing myself as a professional developer. Every day, I strive to grow and improve, always aiming to be better than I was yesterday.
 
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [My Portfolio](http://https://sambolton.onrender.com/)
