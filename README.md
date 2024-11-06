@@ -7,9 +7,9 @@ Full Stack Developer
 After deciding to make a career change, I've been dedicated to establishing myself as a professional developer. Every day, I strive to grow and improve, always aiming to be better than I was yesterday.
 
 * 🌍  I'm based in Virginia
-* 🖥️  See my portfolio at [My Portfolio](http://https://sambolton.onrender.com/)
+* 🖥️  See my portfolio at [My Portfolio](http://sambolton.onrender.com/)
 * ✉️  You can contact me at [sambolton.kw@gmail.com](mailto:sambolton.kw@gmail.com)
-* 🚀  I'm currently working on [An Orioles fan website](http://https://thebirdbath-frontend.onrender.com/)
+* 🚀  I'm currently working on [An Orioles fan website](http://thebirdbath-frontend.onrender.com/)
 * 🧠  I'm learning React and DSA
 * 🤝  I'm open to collaborating on Projects
 
