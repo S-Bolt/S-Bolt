@@ -12,12 +12,16 @@
 
 <p align="left">
 
+<img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/js.svg" width="36" height="36" alt="JS" />
+<img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/css.svg" width="36" height="36" alt="CSS" />
+<img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/html5.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/react.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/tailwind.svg" width="36" height="36" alt="Tailwind" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/next.svg" width="36" height="36" alt="Next.js" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/typescript.svg" width="36" height="36" alt="Typescript" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/storybook.svg" width="36" height="36" alt="Storybook" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/redux.svg" width="36" height="36" alt="Redux" />
+<img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/vite.svg" width="36" height="36" alt="Vite" />
 
 </p>
 
