@@ -6,6 +6,7 @@
 - 🖥️  See my portfolio at [My Portfolio](http://sambolton.onrender.com/)
 - ✉️  You can contact me at [sambolton.kw@gmail.com](mailto:sambolton.kw@gmail.com)
 - 🚀  I'm currently interning at the International Child Art Foundation, building thier new site from the ground up.
+- 🚀  Freelance Frontend Developer for HEFTI (Cornell University), building a public platform to visualize healthcare ownership and financial data using React and Tailwind CSS
 - 🤝  I'm open to collabortions, freelance work, or cool side projects
 
 ### Skills
