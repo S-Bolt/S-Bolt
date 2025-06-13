@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/next.svg" width="36" height="36" alt="Next.js" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/typescript.svg" width="36" height="36" alt="Typescript" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/storybook.svg" width="36" height="36" alt="Storybook" />
+<img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/figma.svg" width="36" height="36" alt="Figma" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/redux.svg" width="36" height="36" alt="Redux" />
 <img src="https://raw.githubusercontent.com/S-Bolt/S-Bolt/main/assets/icons/vite.svg" width="36" height="36" alt="Vite" />
 
