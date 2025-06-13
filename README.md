@@ -1,7 +1,7 @@
 Hi 👋 My name is Sam Bolton
 ===========================
 
-Full Stack Developer
+Front End Developer
 --------------------
 
 * 🌍  I'm based in Virginia
